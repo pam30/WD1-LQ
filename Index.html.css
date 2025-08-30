@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta>
+    <title>Pamela's Coffee Shop</title>
+    <link rel="icon" type="image/jpg" href="coffee-icon.jpg.jpg">
+    </head>
+    <body>
+
+        <header style="background-color:maroon; color:aqua; text-align:center; padding:20px;">
+            <img src="coffee-icon.jpg.jpg"  width="70%" height="300">
+        
+        </header>
+
+
+        <header>
+            <h1>Pamela's Coffee Shop</h1>
+        </header>
+
+        <nav>
+           <lu>
+            <li><a href="#Home"></a></li>
+            <li><a href="#Info">Shop Information</a></li>
+            <li><a href="#Shop Gallery">Shop Gallery</a></li>
+             <li><a href="#Footer">Footer</a></li>
+           </lu>
+        </nav>
+
+
+        <h1 id="Home">Home</h1>
+           <h2> Welcome to Pamela's Coffee Shop</h2>
+            <p> "Your The one in my Coffee Shop</p>
+        </section>
+
+        <h1 id="Info">Information</h1>
+           <h2>Pamela's Coffee Shop</h2>
+
+        <h5>Shop Address</h5>
+        <p>777 San Mariano, Isabela</p>
+
+        <h5>Office Hours / Operating Hours</h5>
+        <p>Monday-Saturday: 8:00 AM - 9:00 PM</p>
+                </td>
+
+                <td>
+                    <img src="frappe.jpg" width="200" height="200">
+                    <h3><b>Frappe</b></h3>
+                    <p>Cold blended coffee delight.</p>
+                    <h4><b>₱180</b></h4>
+                    <butto>Buy Now</button>
+                </td>
+
+                <td>
+                    <img src="Caramel-Milk.jpg.jpg" width="200" height="200">
+                    <h3><b>Caramel Macchiato</b></h3>
+                    <p>Espresso with caramel drizzle.</p>
+                    <h4><b>₱190</b></h4>
+                    <button>Buy Now</button>
+                </td>
+
+                <td>
+                    <img src="Flat White.jpg" width="200" height="200">
+                    <h3><b>Flat White</b></h3>
+                    <p>Espresso with velvety milk texture.</p>
+                    <h4><b>₱200</b></h4>
+                    <button>Buy Now</button>
+                </td>
+            
+                <td>
+                    <img src="Cold Brew.jpg" width="200" height="200">
+                    <h3><b>Cold Brew</b></h3>
+                    <p>Slow brewed smooth iced coffee.</p>
+                    <h4><b>₱170</b></h4>
+                    <button>Buy Now</button>
+                </td>
+               
+                <td>
+                    <img src="affogato.jpg" width="200" height="200">
+                    <h3><b>Affogato</b></h3>
+                    <p>Espresso poured over ice cream.</p>
+                    <h4><b>₱180</b></h4>
+                    <button>Buy Now</button>
+                </td>
+
+                <td>
+                   <td>
+                    <img src="Ice-Spanish-Latte.jpg" width="200" height="200">
+                    <h3><b>Affogato</b></h3>
+                    <p>Espresso poured over ice cream.</p>
+                    <h4><b>₱220</b></h4>
+                    <button>Buy Now</button>
+                </td>
+            </tr>
+        </table>  <footer id="footer"  style="background-color: maroon; color:aqua; text-align: center; padding: 10px 0">
+        <p>Developed by: <b>LUIS, PAMELA</b></p>
+        <p>BSCS 2C</p>
+ </footer>
+
+</body>
